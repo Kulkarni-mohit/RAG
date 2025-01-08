@@ -13,8 +13,7 @@ GOOGLE_API_KEY = "YOUR_GOOGLE_API_KEY"
 PINECONE_API_KEY = "YOUR_PINECONE_API_KEY"
 # load_dotenv()
 
-os.environ["GOOGLE_API_KEY"] = "AIzaSyC0Pm_Ij4yPbBNlmpLU96BGRk-uTTzHK2Y"
-os.environ["PINECONE_API_KEY"] = "0b80c750-46ab-410f-8378-3847a7e79607"
+
 
 DATA_URL = ["https://www.acko.com/life-insurance/", "https://www.acko.com/health-insurance/for-parents/", "https://www.acko.com/car-insurance/","https://www.acko.com/two-wheeler-insurance/"]
 
